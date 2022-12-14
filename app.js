@@ -2,6 +2,7 @@ const vm = new Vue({
     el: "#app",
     data: {
         produtos: [],
+        teste: 'teste',
         produto: false,
         carrinho: [],
         carrinhoAtivo: false,
